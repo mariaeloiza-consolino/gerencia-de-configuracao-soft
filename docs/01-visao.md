@@ -1,0 +1,1 @@
+MarkDown ou extensão .md = formato de texto, o read me é um arquivo markdown. Serve para ser a linha geral da aplicação, toda alteração deve estar de acordo com as informações descritas 
